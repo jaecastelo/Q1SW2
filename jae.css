@@ -1,0 +1,28 @@
+.container1{
+	background-color: #b6eafc;
+}
+
+.form1{
+	background-color: #def3ff;
+	width: 400px;
+	box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.8);
+	margin: auto;
+	padding: 10px;
+	border: 5px dashed #95c3de;
+}
+
+#submit{
+	background-color: #738d9c ;
+	color:white;
+}
+label{
+	font-weight: lighter;
+	font-style: italic;
+}
+
+body{
+	background-image: url(https://media.istockphoto.com/id/1223914421/vector/abstract-blue-wave-background.jpg?s=612x612&w=0&k=20&c=W8IAWjODYdStfbZXxqdG-ovDG2rWjRehnlrQCw1eDn0=);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
